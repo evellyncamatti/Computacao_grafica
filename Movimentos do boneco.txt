@@ -1,0 +1,16 @@
+A -> Antebraço esquerdo para cima e para baixo
+B -> Antebraço esquerdo para os lados
+C -> Antebraço direito para cima e para baixo
+D -> Antebraço direito para os lados
+E -> Braço esquerdo para cima e para baixo
+F -> Braço esquerdo para os lados
+G -> Braço direito para cima e para baixo
+Q -> Braço direito para os lados
+I -> Canela esquerda para cima e para baixo
+J -> Canela esquerda para os lados
+K -> Canela direita para cima e para baixo
+L -> Canela direita para os lados
+M -> Perna esquerda para cima e para baixo
+N -> Perna esquerda para os lados
+O -> Perna direita para cima e para baixo
+P -> Perna direita para os lados
